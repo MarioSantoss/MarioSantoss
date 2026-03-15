@@ -60,6 +60,14 @@ Olá! Me chamo **Mário Bezerra dos Santos** e sou estudante de tecnologia, apai
 
 ---
 
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioSantoss&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -73,10 +81,18 @@ Olá! Me chamo **Mário Bezerra dos Santos** e sou estudante de tecnologia, apai
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/MarioSantoss/MarioSantoss/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
 ## 📬 Contato
 
 <div align="center">
-  <a href="www.linkedin.com/in/mário-bezerra-208410299" target="_blank">
+  <a href="https://www.linkedin.com/in/mário-bezerra-208410299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/mariosantossz/" target="_blank">
